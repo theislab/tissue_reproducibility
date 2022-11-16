@@ -1,10 +1,6 @@
 # tissue reproducibility
 
 Notebooks that are used to produce the panels in the publication. This repository uses the grid searches from the original repository [tissue](https://github.com/theislab/tissue/). 
-Dataloaders for the datasets used in the study are defined [here](https://github.com/theislab/ncem/blob/supervised_dataloading_buffer/ncem/data.py) and can be installed with the command below,
-```
-https://github.com/theislab/ncem/archive/supervised_dataloading_buffer.zip
-```
 
 
 # Datasets
